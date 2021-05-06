@@ -1,6 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+/*
+*  DOCS:
+*  Following this tutorial https://reactjs.org/tutorial/tutorial.html
+* */
+
+
 
 function Square(props) {
 
